@@ -1,4 +1,4 @@
-# Lindy's Portfolio Page
+# 🌻 Lindy's Portfolio Page 🌻
 
 **Welcome to Lindy's Portfolio! Here, you'll find a summary of the projects I've done so far.**
 
