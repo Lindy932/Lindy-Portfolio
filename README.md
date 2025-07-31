@@ -4,6 +4,18 @@
 
 I'm a recent graduate in Information Systems with a strong interest in data analytics, visualization, and user-centered design. I enjoy turning complex data into clear, actionable insights through interactive dashboards and thoughtful storytelling. With hands-on experience using tools like D3.js, Python, SQL, and Power BI, I focus on making data approachable and useful for decision-makers. I'm currently seeking opportunities where I can contribute to data-driven projects and grow as a data analyst or business intelligence professional. Please scroll down to learn more about my projects!
 
+---
+
+## 🤝 Let’s Connect
+
+If you’re a recruiter, team lead, or data enthusiast—feel free to reach out!
+
+📧 [lindylin9824@gmail.com]  
+🔗 [LinkedIn Profile](https://www.linkedin.com/in/lindy-lin688/)
+### Resume: 
+
+
+
  ---
 
 
