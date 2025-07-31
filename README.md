@@ -12,7 +12,7 @@ If you’re a recruiter, team lead, or data enthusiast—feel free to reach out!
 
 📧 [lindylin9824@gmail.com]  
 🔗 [LinkedIn Profile](https://www.linkedin.com/in/lindy-lin688/)
-### Resume: 
+### Resume: [Click Here!](https://github.com/Lindy932/Lindy-Portfolio/blob/1be7da82a1a9311508f845482f478bddf50b9c37/LINDY_LRESUME.pdf)
 
 
 
