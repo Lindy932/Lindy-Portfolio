@@ -8,7 +8,7 @@ I'm a recent graduate in Information Systems with a strong interest in data anal
 
 ## 🤝 Let’s Connect
 
-If you’re a recruiter, team lead, or data enthusiast—feel free to reach out!
+If you’re a recruiter, team lead, or data enthusiast, feel free to reach out!
 
 📧 [lindylin9824@gmail.com]  
 🔗 [LinkedIn Profile](https://www.linkedin.com/in/lindy-lin688/)
